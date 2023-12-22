@@ -1,7 +1,6 @@
 <template>
   <div class="header">
     <div>后台管理系统</div>
-    <!-- 其他头部内容 -->
   </div>
 </template>
 
@@ -16,6 +15,5 @@ export default {
   background-color: #333;
   color: white;
   padding: 10px;
-  text-align: center;
 }
 </style>

@@ -1,11 +1,5 @@
 <template>
-  <div class="dashboard">
-    <Header />
-    <div class="main-container">
-      <Sidebar />
-      <Content />
-    </div>
-  </div>
+  <div class="dashboard">2222</div>
 </template>
 
 <script>

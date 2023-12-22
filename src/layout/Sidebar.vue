@@ -1,8 +1,12 @@
 <template>
   <div class="sidebar">
     <ul>
-      <li><router-link to="/dashboard">Dashboard</router-link></li>
-      <li><router-link to="/users">用户管理</router-link></li>
+      <li><router-link to="/index">首页</router-link></li>
+      <li><router-link to="/demo">练习</router-link></li>
+      <li><router-link to="/demo">用户管理</router-link></li>
+      <li><router-link to="/demo">用户管理</router-link></li>
+      <li><router-link to="/demo">用户管理</router-link></li>
+      <li><router-link to="/demo">用户管理</router-link></li>
       <!-- 其他菜单项 -->
     </ul>
   </div>
